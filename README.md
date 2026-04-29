@@ -273,7 +273,7 @@ Follow-up: Schedule a call in 2 weeks to check on patient feedback."
 ### Search for an HCP
 
 ```
-"Search for Dr. Williams"
+"Search for Dr. Sarah Williams"
 ```
 
 ### Get Follow-up Suggestions
