@@ -279,13 +279,13 @@ Follow-up: Schedule a call in 2 weeks to check on patient feedback."
 ### Get Follow-up Suggestions
 
 ```
-"Suggest follow-ups for Dr. Williams, positive sentiment, discussed efficacy"
+"Suggest follow-ups for Dr. Sarah Williams, positive sentiment, discussed efficacy"
 ```
 
 ### Summarize Interaction History
 
 ```
-"Summarize interaction history with Dr. Williams"
+"Summarize interaction history with Dr. Sarah Williams"
 ```
 
 ---
